@@ -47,4 +47,12 @@
 **[x]** Optimization of report generation through meticulous fine-tuning.
  
 **[x]** Developing a systematic approach to devising a report building plan.
+
+Here is the links to my presentation on LinkedIn on both the reports & AtliQ hardware Business Model:
+
+[AtliQ Hardware Business Model Presentation](https://www.linkedin.com/posts/shivammundhra0798_atliq-business-model-activity-7224247409093005312-sn4u?utm_source=share&utm_medium=member_desktop)
+
+[AtliQ Hardware Sales Report Presentation](https://www.linkedin.com/posts/shivammundhra0798_data-dataanalytics-excel-activity-7225351814714474496-LfIw?utm_source=share&utm_medium=member_desktop)
+
+[AtliQ Hardware Finance Report Presentation](https://www.linkedin.com/posts/shivammundhra0798_data-dataanalytics-excel-activity-7227508907802304513-8oX9?utm_source=share&utm_medium=member_desktop)
  
