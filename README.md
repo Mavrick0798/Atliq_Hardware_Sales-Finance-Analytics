@@ -16,7 +16,7 @@ Role of reports: Determine effective customer discounts, facilitate negotiations
 # Finance Report :
 # Project objective:
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+1. Create [Profit and Loss (P&L) reports by Fiscal Year & Months](https://github.com/Mavrick0798/Atliq_Hardware_Sales-Finance-Analytics/blob/main/Atliq_Finance_report.pdf)
 
 2. Create [Profit and Loss (P&L) reports by Markets](https://github.com/Mavrick0798/Atliq_Hardware_Sales-Finance-Analytics/blob/main/Atliq_Finance_P&L%20by_GM.pdf)
 
