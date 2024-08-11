@@ -5,7 +5,7 @@
 
 1. Create a [customer performance report](https://github.com/Mavrick0798/Atliq_Hardware_Sales-Finance-Analytics/blob/d229ac752e14bb9c99a45f0049a27272bc60e3aa/AtliQ%20Hardwares%20Sales_report.pdf) 
 
-2. Conduct a comprehensive comparison between market performance and sales targets
+2. Conduct a [comprehensive comparison between market performance and sales targets](https://github.com/Mavrick0798/Atliq_Hardware_Sales-Finance-Analytics/blob/main/AtliQ%20market_vs_target_report.pdf)
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
