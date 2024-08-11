@@ -18,7 +18,7 @@ Role of reports: Determine effective customer discounts, facilitate negotiations
 
 1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
 
-2. Create Profit and Loss (P&L) reports by Markets
+2. Create [Profit and Loss (P&L) reports by Markets](https://github.com/Mavrick0798/Atliq_Hardware_Sales-Finance-Analytics/blob/main/Atliq_Finance_P&L%20by_GM.pdf)
 
 Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
