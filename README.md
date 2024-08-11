@@ -13,7 +13,7 @@ Importance of analyzing sales data: Identify sales patterns and track key perfor
 
 Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-### Finance Report :
+## Finance Report :
 ### Project objective:
 
 1. Create [Profit and Loss (P&L) reports by Fiscal Year & Months](https://github.com/Mavrick0798/Atliq_Hardware_Sales-Finance-Analytics/blob/main/Atliq_Finance_report.pdf)
